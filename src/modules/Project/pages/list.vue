@@ -139,6 +139,7 @@ export default defineComponent({
 </template>
 
 <style lang="scss" scoped>
+
 .create-action {
   padding: 10px 20px;
   width: 100%;

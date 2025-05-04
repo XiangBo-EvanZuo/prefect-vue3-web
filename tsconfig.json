@@ -24,7 +24,6 @@
       "vite/client",
       "vitest/globals",
       "node",
-      "element-plus/global"
     ],
     "baseUrl": "./",
     "paths": {
